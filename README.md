@@ -1,5 +1,5 @@
 # RTOSBot
-A small robot that uses my [HobbyOS](https://github.com/jesionaj/HobbyOS/) code.
+A small robot that uses my [HobbyOS](https://github.com/jesionaj/HobbyOS/) code. A video describing this project can be found [here](https://www.youtube.com/watch?v=qPOtINk6i20).
 
 ![Robot](http://i.imgur.com/SrGnT58.jpg)
 
